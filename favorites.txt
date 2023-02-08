@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Lord of the Rings
 Avatar
 Dark
+=======
+pizza Hawaii
+spaghetti
+china noodles
+>>>>>>> foods
